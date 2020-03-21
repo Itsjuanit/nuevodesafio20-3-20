@@ -1,0 +1,84 @@
+/*
+Esta es mi hoja de estilos de mi index.html
+*/
+
+body {}
+
+article {
+    width: 500px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0em;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.7em;
+    font-weight: lighter;
+    color: #D3D3D3;
+    margin-bottom: 0em;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    color: #D3D3D3;
+    font-weight: lighter;
+    width: 100%;
+    text-align: left;
+    margin-top: 0.5em;
+}
+
+a {
+    color: #1eb0b3;
+    text-decoration: none;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.primerCara,
+.segundaCara {
+    display: inline-block;
+    width: 30px;
+    float: right;
+    border-radius: 40px;
+}
+
+.linea {
+    color: #fcfcfc;
+    height: 1px;
+}
+
+.botonCss {
+    background-color: #5bba59;
+    margin: 5px;
+    color: #ffffff;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.botonPure {
+    background-color: #5084d3;
+    margin: 5px;
+    color: #ffffff;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.botonJs {
+    background-color: #e92d4f;
+    margin: 5px;
+    color: #ffffff;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
